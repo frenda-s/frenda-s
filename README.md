@@ -30,15 +30,15 @@
 ### Skills & What I Can Do
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,svelte,nextjs,cpp,py,flask,mongodb,ps,pr,linux&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,svelte,nextjs,cpp,py,flask,mongodb,ps,pr,linux,git&theme=dark" alt="Skill Icons" />
 </div>
 
 <br/>
 
 #### Frontend
-- **HTML, CSS, JavaScript:** Build responsive web pages and interactive UI features.
-- **Svelte:** Develop fast, reactive user interfaces and web components.
-- **Next.js:** Build full-stack web applications with server-side rendering and static routing.
+- **HTML, CSS, JavaScript:** Used to build responsive, accessible web pages and interactive UI components.
+- **Svelte:** Used to develop fast, reactive client-side user interfaces with minimal overhead.
+- **Next.js:** Used to create full-stack web applications with server-side rendering (SSR) and optimized routing.
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -49,8 +49,8 @@
 </p>
 
 #### Backend & Programming Languages
-- **C++:** Problem solving, data structures, and algorithm implementation.
-- **Python & Flask:** Build RESTful backend APIs, web services, and automation scripts.
+- **C++:** Used for competitive programming, algorithmic problem-solving, and efficient data structure implementation.
+- **Python & Flask:** Used to develop lightweight RESTful APIs, automation scripts, and backend services.
 
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -59,8 +59,8 @@
 </p>
 
 #### Databases
-- **Turso (LibSQL / SQLite):** Work with distributed edge SQL databases.
-- **MongoDB:** Manage document-based NoSQL databases for web applications.
+- **Turso (LibSQL / SQLite):** Used for low-latency, distributed edge SQL databases in web projects.
+- **MongoDB:** Used for managing flexible, document-based NoSQL databases in full-stack applications.
 
 <p>
   <img src="https://img.shields.io/badge/Turso%20(LibSQL)-4FF8D2?style=for-the-badge&logo=sqlite&logoColor=black" alt="Turso" />
@@ -68,16 +68,27 @@
 </p>
 
 #### Media & Design
-- **Adobe Photoshop:** Create graphics, banner designs, photo editing, and UI assets.
-- **Adobe Premiere Pro:** Video editing, cutting sequences, and content creation.
+- **Adobe Photoshop:** Used for graphic design, banner creation, photo editing, and UI asset preparation.
+- **Adobe Premiere Pro:** Used for video editing, cutting footage, and multimedia content creation.
 
 <p>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro" />
 </p>
 
+#### Tools & Environment
+- **Zed IDE:** My primary high-performance editor for fast, daily code editing and development workflows.
+- **Claude Code:** Terminal-based agentic AI assistant used for pair programming, code refactoring, and automating dev tasks.
+- **Git & GitHub:** Used for tracking version history, managing repositories, and collaboration.
+
+<p>
+  <img src="https://img.shields.io/badge/Zed_Editor-18181B?style=for-the-badge&logo=zed&logoColor=white" alt="Zed Editor" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
 #### System
-- **Linux:** Linux user (CachyOS).
+- **Linux (CachyOS):** My daily driver operating system optimized for development performance, shell customization, and terminal workflows.
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
