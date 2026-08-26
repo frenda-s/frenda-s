@@ -1,16 +1,98 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Frenda2009/Frenda2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Khoa Nguyen (Frenda)
+  
+  <p align="center">
+    <a href="https://github.com/Frenda2009">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Student+at+Nguyen+Chi+Thanh+High+School+for+the+Gifted;Full-Stack+Developer;C%2B%2B+%26+Python+Developer;Linux+User;Graphic+Design+%26+Video+Editing" alt="Typing SVG" />
+    </a>
+  </p>
 
-Here are some ideas to get you started:
+  <p align="center">
+    <img src="https://img.shields.io/badge/Birthdate-03%2F02%2F2009-blue?style=flat-square" alt="Birthday" />
+    <img src="https://img.shields.io/badge/School-Chuy%C3%AAn%20Nguy%E1%BB%85n%20Ch%C3%AD%20Thanh-9cf?style=flat-square" alt="School" />
+    <img src="https://img.shields.io/badge/Linux%20User-CachyOS-00ADB5?style=flat-square&logo=archlinux&logoColor=white" alt="Linux User" />
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### About Me
+
+- **Name:** Khoa Nguyen (Frenda)
+- **Date of Birth:** February 3, 2009
+- **Education:** Student at Nguyen Chi Thanh High School for the Gifted (Chuyen Nguyen Chi Thanh)
+- Linux user (CachyOS)
+
+---
+
+### Skills & What I Can Do
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,svelte,nextjs,cpp,py,flask,mongodb,ps,pr,linux&theme=dark" alt="Skill Icons" />
+</div>
+
+<br/>
+
+#### Frontend
+- **HTML, CSS, JavaScript:** Build responsive web pages and interactive UI features.
+- **Svelte:** Develop fast, reactive user interfaces and web components.
+- **Next.js:** Build full-stack web applications with server-side rendering and static routing.
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
+
+#### Backend & Programming Languages
+- **C++:** Problem solving, data structures, and algorithm implementation.
+- **Python & Flask:** Build RESTful backend APIs, web services, and automation scripts.
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</p>
+
+#### Databases
+- **Turso (LibSQL / SQLite):** Work with distributed edge SQL databases.
+- **MongoDB:** Manage document-based NoSQL databases for web applications.
+
+<p>
+  <img src="https://img.shields.io/badge/Turso%20(LibSQL)-4FF8D2?style=for-the-badge&logo=sqlite&logoColor=black" alt="Turso" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+#### Media & Design
+- **Adobe Photoshop:** Create graphics, banner designs, photo editing, and UI assets.
+- **Adobe Premiere Pro:** Video editing, cutting sequences, and content creation.
+
+<p>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro" />
+</p>
+
+#### System
+- **Linux:** Linux user (CachyOS).
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/CachyOS-00ADB5?style=for-the-badge&logo=archlinux&logoColor=white" alt="CachyOS" />
+</p>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Frenda2009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frenda2009&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frenda2009&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
